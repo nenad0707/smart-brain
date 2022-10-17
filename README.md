@@ -26,3 +26,8 @@ Smart Brain is a web app that uses the Clarifai API to locate a face in a pictur
 ### APIs
 - [Clarifai](https://www.clarifai.com/)
 - [Smart Brain API](https://github.com/Nenad984/smart-brain-api)
+
+
+[screen-capture.webm](https://user-images.githubusercontent.com/43686522/196205402-5c17ac5a-f1f5-44f9-aa23-32e4185e6f45.webm)
+
+
